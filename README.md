@@ -1,5 +1,5 @@
 # Text-Classification-with-Transformers
-## Performing text classification with MobileBERT, DistilBERT, and BERT-Base
+## Performing text classification with MobileBERT, DistilBERT, Roberta-Base, Albert-Base-V2, and BERT-Base
 
 Code breakdown:
 
